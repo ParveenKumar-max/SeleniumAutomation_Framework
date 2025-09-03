@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="org.seleniumAutomation.Utils.Retry_Listener"></listener>
+        <listener class-name="org.seleniumAutomation.Utils.ScreenshotListener"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/Parveen/IdeaProjects/SeleniumAutomation_Framework">
+        <classes>
+            <class name="org.seleniumAutomation.Tests.Sample.TestScripts_Boiler">
+                <methods><include name="testScripts"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

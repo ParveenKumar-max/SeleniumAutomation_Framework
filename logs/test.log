@@ -1,0 +1,12 @@
+2025-09-04 01:44:37 INFO  TestScriptVMO_PageFactory - Checking first program after creating framework from Scratch
+2025-09-04 01:45:03 INFO  TestScriptVMO_PageFactory - Error Message should be Your email, password, IP address or location did not match
+2025-09-04 01:45:03 ERROR TestScriptVMO_PageFactory - Error msg is Your email, password, IP address or location did not match
+2025-09-04 01:45:03 FATAL TestScriptVMO_PageFactory - Program is completed
+2025-09-04 02:22:39 INFO  TestScriptVMO_PageFactory - Checking first program after creating framework from Scratch
+2025-09-04 02:24:31 INFO  TestScriptVMO_PageFactory - Error Message should be Your email, password, IP address or location did not match
+2025-09-04 02:24:31 ERROR TestScriptVMO_PageFactory - Error msg is Your email, password, IP address or location did not match
+2025-09-04 02:24:31 FATAL TestScriptVMO_PageFactory - Program is completed
+2025-09-04 02:38:53 INFO  TestScriptVMO_PageFactory - Checking first program after creating framework from Scratch
+2025-09-04 02:40:11 INFO  TestScriptVMO_PageFactory - Error Message should be Your email, password, IP address or location did not match
+2025-09-04 02:40:11 ERROR TestScriptVMO_PageFactory - Error msg is Your email, password, IP address or location did not match
+2025-09-04 02:40:11 FATAL TestScriptVMO_PageFactory - Program is completed
